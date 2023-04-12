@@ -1,0 +1,24 @@
+h1{
+    color: brown;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.bacon{
+    background-color: rgb(199, 118, 86);
+}
+
+.brocolis{
+    background-color: rgb(164, 250, 207);
+}
+
+.sub{
+    color: rgb(141, 19, 19);
+}
+
+.circular{
+    border-radius: 100%;
+}
+
+#heading{
+    color: brown;
+}
